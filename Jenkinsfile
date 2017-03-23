@@ -9,3 +9,4 @@ node {
 	sh "scripts/deploy.sh"
 }
 
+
